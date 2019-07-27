@@ -5,9 +5,9 @@ Gem::Specification.new do |spec|
   spec.summary     = 'One plus one equals two.'
   spec.description = 'A utility for adding one and one.'
   spec.authors     = ['Michael Matyus']
-  spec.email       = 'matyus@justworks.com'
+  spec.email       = 'michael@maty.us'
   spec.files       = ['lib/one_plus_one.rb']
-  spec.homepage    = 'https://rubygems.org/gems/one_plus_one'
+  spec.homepage    = 'https://github.com/matyus/one_plus_one'
   spec.license     = 'MIT'
   spec.post_install_message = 'Thank you for installing this useful gem!'
 end
