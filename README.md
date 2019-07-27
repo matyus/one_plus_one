@@ -6,7 +6,7 @@ This gem will sum 1 and 1.
 
 Install the gem.
 
-```
+```sh
 gem install one_plus_one
 ```
 
